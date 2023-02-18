@@ -39,9 +39,9 @@
 ══════════════════════════════════════════════════════════════════════════
 */
 
-global.waitemoji = `⚙️`
-global.groupinfoemoji = `📝️`
+global.waitemoji = `💬`
+global.groupinfoemoji = `🙈`
 global.linkgroupemoji =`🖇️`
-global.botmodeemoji =`🔅️`
+global.botmodeemoji =`💥`
 global.disappearemoji =`⏱️`
 global.tagemoji =`📌️`
